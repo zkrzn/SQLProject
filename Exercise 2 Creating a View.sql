@@ -1,4 +1,4 @@
-/*  CREATE VIEW CHICAGOSCHOOL
+CREATE VIEW CHICAGOSCHOOL
  AS 
  SELECT 
  NAME_OF_SCHOOL AS School_Name,
@@ -8,7 +8,8 @@
  Instruction_Icon AS Instruction_Rating,
  Leaders_Icon AS Leaders_Rating,
  Teachers_Icon AS Teachers_Rating
- FROM  ChicagoPublicSchools  */
+ FROM  ChicagoPublicSchools; 
 
---SELECT  * FROM CHICAGOSCHOOL 
-SELECT School_Name, Leaders_Rating FROM CHICAGOSCHOOL
+SELECT  * FROM CHICAGOSCHOOL;
+
+SELECT School_Name, Leaders_Rating FROM CHICAGOSCHOOL;
