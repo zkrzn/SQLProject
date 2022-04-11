@@ -1,2 +1,2 @@
 # SQLProjects
-## ** SQL queries From differents projects & courses **
+## **SQL queries From differents projects & courses**
